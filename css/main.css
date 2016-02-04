@@ -1,0 +1,188 @@
+header{
+	padding:30px;
+	height:150px;
+	background-color:white;
+	text-align:center;
+	font-size:27px;
+}
+header nav{
+	padding-top:30px;
+}
+nav a{
+	text-decoration:none;
+	 color:grey;
+	 padding:50px;
+	 font-size:20px;
+}
+.studio{
+	background-image:url("../img/dance_1.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:400px;
+	color:#C3C6C5;
+	text-align:left;
+	padding-top:50px;
+}
+.studio h1{
+	font-size:65px;
+}
+.add{
+	background-color:#030D1D;
+	height:50px;
+	width:150px;
+	text-align:center;
+	margin-top:20px;
+	padding: auto;
+	padding-top:15px;
+	color:white;
+}
+.puntos{
+	display:block;
+	padding-top:100px;
+	background-image: url("../img/textura_2.jpg");
+	background-size:cover;
+	height:1000px;
+	text-align:center;
+	font-size:30px;
+}
+.deco1{
+	width:300px;
+	height:100px;
+	margin-top:50px;
+	margin-bottom:30px;
+
+}
+.oferta{
+	width:350px;
+	padding:30px;
+	background-color:#030D1D;
+	color:white;
+	text-align:center;
+	margin:auto;
+	margin-bottom:50px;
+}
+.boy{
+	background-image:url("../img/instructor_4.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:300px;
+	border:1px solid #192951;
+}
+.girl{
+	background-image:url("../img/profesor_9.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+	height:300px;
+	border: 1px solid #192951;
+}
+.instructor{
+	position:relative;
+	width:300px;
+	height:50px;
+	background-color:#030D1D;
+	margin:-50px 300px;
+	text-align:center;
+	left:250px;
+	color:white;
+	padding-top:10px;
+	top:300px;
+	font-size:20px;
+}
+.danza{
+	padding-top:50px;
+	font-size:40px;
+}
+.blue{
+	background-color:#0F0244;
+	color:white;
+	padding-top:50px;
+	padding:3%
+}
+.blue p{
+	padding:5px;
+}
+.blue h3{
+	padding:10px;
+}
+.maps{
+	width:450px;
+	height: 250px;
+}
+.zapatos{
+	background-image: url("../img/shoes_1.jpg");
+	background-repeat:no-repeat;
+	background-size: 60% 100%;
+	height:500px;
+	background-position-x:500px;
+	background-position-y:10px;
+}
+.contactanos {
+	margin-top:50px;
+	color: #2F3D61;
+	font-size: 30px;
+}
+.fa-envelope{
+	position: absolute;
+	margin: 15px 20px;
+}
+.fa-pencil{
+	position: absolute;
+	margin: 15px 20px;
+}
+.fa-user {
+	position: absolute;
+	margin: 15px 20px;
+}
+input, .mensaje{
+	display: block;
+	width: 450px;
+	padding:15px;
+	margin: 12px;	
+	border: 1px #ccc solid;
+	padding-left:30px;
+}
+.enviar{
+	background-color: #192951;
+	color: white;
+	padding: 15px;
+	font-size: 15px;
+}
+.zapatos{
+	background-image: url("../img/shoes_1.jpg");
+	background-repeat:no-repeat;
+	background-size: 60% 100%;
+	height:500px;
+	background-position-x:500px;
+	background-position-y:10px;
+}
+.contactanos {
+	margin-top:50px;
+	color: #2F3D61;
+	font-size: 30px;
+}
+.fa-envelope{
+	position: absolute;
+	margin: 15px 20px;
+}
+.fa-pencil{
+	position: absolute;
+	margin: 15px 20px;
+}
+.fa-user {
+	position: absolute;
+	margin: 15px 20px;
+}
+input, .mensaje{
+	display: block;
+	width: 450px;
+	padding:15px;
+	margin: 12px;	
+	border: 1px #ccc solid;
+	padding-left:30px;
+}
+.enviar{
+	background-color: #192951;
+	color: white;
+	padding: 15px;
+	font-size: 15px;
+}

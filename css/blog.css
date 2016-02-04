@@ -1,0 +1,75 @@
+.grey{
+	background-color:#F0EFF2;
+	padding:10%;
+}
+.grey h1{
+	text-align:center;
+	padding-bottom:30px;
+}
+.clases {
+	padding-top: 200px;
+	background-color: #E0F2F7;
+	position: relative;
+	padding-bottom: 90px;
+}
+.first{
+	margin-top: 40px;
+}
+.titulo{
+	text-align: center;
+}
+.blog{
+	height: 250px;
+	width: 1000px;
+	background-color:#B0ACAC;
+	position: relative;
+	background-image: url("../img/blog1.jpg");
+	background-size:300px 250px;
+	background-repeat: no-repeat;
+}
+.blog2{
+	height: 250px;
+	width: 1000px;
+	background-color:#B0ACAC;
+	position: relative;
+	background-image: url("../img/profesor_5jpg.jpg");
+    background-size:300px 250px;
+	background-repeat: no-repeat;
+}
+.blog3{
+	height: 250px;
+	width: 1000px;
+	background-color:#B0ACAC;
+	position: relative;
+	background-image: url("../img/instructor_1.jpg");
+    background-size:300px 250px;
+	background-repeat: no-repeat;
+}
+.texto{
+	padding-top: 30px;
+	margin-left: 350px;
+}
+.taller{
+	font-size: 15px;
+	padding-bottom: 10px;
+}
+.date{
+	font-size: 11px;
+	color: grey;
+	font-family: italic;
+}
+.look{
+	height: 50px;
+	width:250px;
+	background-color:#00214d;
+	border-radius: 5px;
+	font-size: 22px;
+	text-align:center;
+	color:white;
+}
+.msj{
+	color:#00214d;
+	font-size: 14px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
